@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](http://wx2.sinaimg.cn/large/006m97Kgly1fy1l129gy9j306o06oaaa.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWBMESSI&show_icons=true&theme=dracula)
 
 <!--
